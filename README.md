@@ -1,6 +1,6 @@
 WEB View
 
-![image](https://user-images.githubusercontent.com/80327905/149154042-a6a13e00-5105-471a-84a1-ecabea3f19b6.png)
+![image](https://user-images.githubusercontent.com/80327905/149154285-b74536cc-076f-425f-a55f-c4fd1fa17bda.png)
 
 Mobile View
 
